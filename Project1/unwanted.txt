@@ -1,6 +1,0 @@
-"HAVE", "THE", "MY", "LIKE", "I", 
-"TO", "AS", "IF", "WILL", "SHOULD", 
-"THAT", "IS", "OF", "A", "BE", 
-"THIS", "AND", "OR", "SO", "OUR",
-"YOU", "THEY", "NOT", "WHO", "IN",
-"AM", "FROM", "ALL", "IT", "WITH"
